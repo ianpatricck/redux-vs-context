@@ -1,3 +1,5 @@
+![cover](cover.png)
+
 # Redux vs. Context API: Qual a Melhor Opção para Sua Aplicação React?
 
 ## 🚀 Introdução ao Gerenciamento de Estado em React
